@@ -1,5 +1,5 @@
 # Loja Virtual
 
-Texto alterado no repositório local. (2)
+Texto alterado no repositório local.
 
 Texto alterado pelo GitHub Web.
